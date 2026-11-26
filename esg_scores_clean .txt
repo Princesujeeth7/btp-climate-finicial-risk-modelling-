@@ -1,0 +1,96 @@
+ESG SCORES FOR REQUESTED PORTFOLIO COMPANIES
+Score scale: 0–100
+
+DATA PROVENANCE
+The following values and descriptions are reproduced from the data supplied by the user.
+The source labels differ by year; do not assume that the scores are directly comparable across years.
+
+2021 ESG SCORES
+Source label: 2021 CRISIL ESG Score
+
+Ticker	Company Name	ESG_Score	Performance_Classification
+INFY.NS	Infosys Limited	79	Leadership
+ICICIBANK.NS	ICICI Bank Limited	78	Leadership
+BHARTIARTL.NS	Bharti Airtel Limited	77	Leadership
+HINDUNILVR.NS	Hindustan Unilever Limited	75	Leadership
+HDFCBANK.NS	HDFC Bank Limited	73	Leadership
+SBIN.NS	State Bank of India	73	Leadership
+TCS.NS	Tata Consultancy Services Limited	65	Strong
+ITC.NS	ITC Limited	65	Strong
+LT.NS	Larsen & Toubro Limited	64	Strong
+RELIANCE.NS	Reliance Industries Limited	61	Strong
+
+2022 ESG SCORES
+Source label: 2022 NSE-SES ESG Score
+
+Ticker	Company Name	ESG_Score	Performance_Classification
+INFY.NS	Infosys Limited	79	Leadership
+ICICIBANK.NS	ICICI Bank Limited	78	Leadership
+BHARTIARTL.NS	Bharti Airtel Limited	77	Leadership
+HINDUNILVR.NS	Hindustan Unilever Limited	75	Leadership
+HDFCBANK.NS	HDFC Bank Limited	73	Leadership
+SBIN.NS	State Bank of India	73	Leadership
+TCS.NS	Tata Consultancy Services Limited	65	Strong
+ITC.NS	ITC Limited	65	Strong
+LT.NS	Larsen & Toubro Limited	64	Strong
+RELIANCE.NS	Reliance Industries Limited	61	Strong
+
+2023 ESG SCORES
+Source label: 2023 Market ESG Score Baseline
+
+Ticker	Company Name	ESG_Score	Performance_Classification
+INFY.NS	Infosys Limited	77	Leadership
+TCS.NS	Tata Consultancy Services Limited	75	Leadership
+HDFCBANK.NS	HDFC Bank Limited	71	Leadership
+ICICIBANK.NS	ICICI Bank Limited	68	Strong
+SBIN.NS	State Bank of India	65	Strong
+HINDUNILVR.NS	Hindustan Unilever Limited	63	Strong
+ITC.NS	ITC Limited	62	Strong
+LT.NS	Larsen & Toubro Limited	60	Strong
+BHARTIARTL.NS	Bharti Airtel Limited	59	Adequate
+RELIANCE.NS	Reliance Industries Limited	52	Adequate
+
+2024 ESG SCORES
+Source label: 2024 CRISIL ESG Score
+
+Ticker	Company Name	ESG_Score	Performance_Classification
+INFY.NS	Infosys Limited	76	Leadership
+TCS.NS	Tata Consultancy Services Limited	74	Leadership
+HDFCBANK.NS	HDFC Bank Limited	71	Leadership
+ICICIBANK.NS	ICICI Bank Limited	69	Strong
+SBIN.NS	State Bank of India	68	Strong
+HINDUNILVR.NS	Hindustan Unilever Limited	66	Strong
+ITC.NS	ITC Limited	63	Strong
+LT.NS	Larsen & Toubro Limited	61	Strong
+BHARTIARTL.NS	Bharti Airtel Limited	58	Adequate
+RELIANCE.NS	Reliance Industries Limited	55	Adequate
+
+2025 ESG SCORES
+Source label: 2025 ESG Score Baseline
+
+Ticker	Company Name	ESG_Score	Performance_Classification	Primary_Source_Context
+INFY.NS	Infosys Limited	76	Leadership	CRISIL / NSE Sustainability
+TCS.NS	Tata Consultancy Services Limited	74	Leadership	CRISIL SEBI Reg 30 Verified
+HDFCBANK.NS	HDFC Bank Limited	73	Leadership	NSE Sustainability Certified
+ICICIBANK.NS	ICICI Bank Limited	69	Strong	CRISIL Database Baseline
+SBIN.NS	State Bank of India	68	Strong	CRISIL Database Baseline
+HINDUNILVR.NS	Hindustan Unilever Limited	64	Strong	CRISIL ESG Index
+ITC.NS	ITC Limited	63	Strong	CRISIL Core ESG
+LT.NS	Larsen & Toubro Limited	61	Strong	SEBI Materiality Framework
+BHARTIARTL.NS	Bharti Airtel Limited	57	Adequate	CRISIL Standard Framework
+RELIANCE.NS	Reliance Industries Limited	55	Adequate	CRISIL Framework Baseline
+
+2026 ESG RATING BENCHMARK
+Source label: 2026 ESG Rating Benchmark
+
+Ticker	Company Name	ESG_Score	Core_Framework_Category	Performance_Profile_Notes
+INFY.NS	Infosys Limited	76	Leadership	Certified Leader; low environmental impact with high workforce safety.
+TCS.NS	Tata Consultancy Services Limited	74	Leadership	High renewable energy adoption and data privacy frameworks.
+HDFCBANK.NS	HDFC Bank Limited	73	Leadership	Leads among banks by implementing green financing frameworks.
+ICICIBANK.NS	ICICI Bank Limited	69	Strong	Robust internal data governance and board-level risk structures.
+SBIN.NS	State Bank of India	68	Strong	Upgraded internal corporate lending screening protocols.
+HINDUNILVR.NS	Hindustan Unilever Limited	64	Strong	Advanced circular economy tracking and water neutrality initiatives.
+ITC.NS	ITC Limited	63	Strong	Strong social integration metrics balancing a legacy tobacco portfolio.
+LT.NS	Larsen & Toubro Limited	61	Strong	Transitioning through pilot deployments of green hydrogen.
+BHARTIARTL.NS	Bharti Airtel Limited	57	Adequate	Higher scope 2 electricity footings offset by robust governance.
+RELIANCE.NS	Reliance Industries Limited	55	Adequate	Impacted by high baseline scope 1 emissions from legacy refinery units.
